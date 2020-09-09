@@ -1,0 +1,60 @@
+C:\Users\x\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\x\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\x\source\repos\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\x\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\bin\Debug\Proje1.exe.CodeAnalysisLog.xml
+C:\Users\x\Documents\Visual Studio 2017\Backup Files\Proje1\Proje1\bin\Debug\Proje1.exe.lastcodeanalysissucceeded
+G:\Proje1\Proje1\bin\Debug\Proje1.exe.config
+G:\Proje1\Proje1\obj\Debug\Proje1.exe
+G:\Proje1\Proje1\obj\Debug\Proje1.pdb
+G:\Proje1\Proje1\bin\Debug\Proje1.exe
+G:\Proje1\Proje1\bin\Debug\Proje1.pdb
+G:\Proje1\Proje1\obj\Debug\Proje1.csprojResolveAssemblyReference.cache
+G:\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+G:\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+G:\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\x\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\x\Desktop\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\x\Desktop\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\x\Desktop\Proje1-\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\x\Desktop\Proje1-\Proje1\bin\Debug\Proje1.exe
+C:\Users\x\Desktop\Proje1-\Proje1\bin\Debug\Proje1.pdb
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.exe
+C:\Users\x\Desktop\Proje1-\Proje1\obj\Debug\Proje1.pdb
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\bin\Debug\Proje1.exe
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\bin\Debug\Proje1.pdb
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\obj\Debug\Proje1.exe
+C:\Users\x\Desktop\DERSLRER\2019 2.SINIF 2.DÖNEM\steganografi\Proje1-\Proje1\obj\Debug\Proje1.pdb
